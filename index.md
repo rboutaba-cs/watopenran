@@ -15,7 +15,7 @@ The Open RAN paradigm aims at alleviating some of the difficulties by leveraging
   <div class="img2">
     <img src="assets/mitacs-logo.png" alt="Mitacs"/>
   </div>
-  <div class="img2">
+  <div class="img3">
     <img src="assets/nserc-logo.png" alt="Mitacs"/>
   </div>
   <div class="img2">

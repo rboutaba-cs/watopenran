@@ -44,7 +44,7 @@ ul {
   list-style-image: url(../bullet_red.gif);
   list-style-type: none;
   font-size: 1em;
-  line-height: 1.5em;
+  // line-height: 1.5em;
 }
 
 section {
@@ -77,4 +77,8 @@ footer {
 }
 .img2 { 
   flex: 0.15 * 1.0;
+}
+
+.img3 { 
+  flex: 0.15 * 2.33;
 }
