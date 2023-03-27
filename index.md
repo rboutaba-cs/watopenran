@@ -8,6 +8,9 @@ The Open RAN paradigm aims at alleviating some of the difficulties by leveraging
 - Data-driven intelligent orchestration algorithms for Open RAN focusing on challenges such as dynamic resource block allocation and RAN function splitting. 
 - An Open RAN testbed compliant with O-RAN Alliance standards, implementing dynamic functional splitting, RAN disaggregation and virtualization, and centralized RAN orchestration. 
 
+## Related Publications
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Journals/2023/ZangooeiCOMMAG2023.pdf`) M. Zangooei, N. Saha, M. Golkarifard and R. Boutaba. Reinforcement Learning for Radio Resource Management in RAN Slicing: A Survey. IEEE Communications Magazine. IEEE Press. Vol. 61(2), pp. 118-124, February 2023.
+
 
 ## Sponsors and Partners
 <div class="row">
