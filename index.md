@@ -11,7 +11,9 @@ The Open RAN paradigm aims at alleviating some of the difficulties by leveraging
 
 ## Related Publications
 
-- M. Mushtaq, M. Golkarifard, N.Shahriar, R. Boutaba, A. Saleh. Optimal Functional Splitting, Placement and Routing for Isolation-Aware Network Slicing in NG-RAN. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/Rouili_NOMS_24.pdf`) M. Rouili, N. Saha, M. Golkarifard, M. Zangooei, R. Boutaba, E. Onur and R. Saleh. Evaluating Open-Source 5G SA Testbeds: Unveiling Performance Disparities in RAN Scenarios. IEEE/IFIP Network Operations and Management Symposium (NOMS). Seoul, South Korea, May 6-10, 2024.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/MushtaqCNSM23.pdf`) M. Mushtaq, M. Golkarifard, N.Shahriar, R. Boutaba, A. Saleh. Optimal Functional Splitting, Placement and Routing for Isolation-Aware Network Slicing in NG-RAN. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Journals/2023/ZangooeiJSAC2023.pdf`) M. Zangooei, M. Golkarifard, M. Rouili, N. Saha, and R. Boutaba. Flexible RAN Slicing in Open RAN with Constrained Multi-agent Reinforcement Learning. IEEE Journal on Selected Areas in Communications - Special issue on Open RAN. Accepted September, 2023.
 
